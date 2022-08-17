@@ -1,0 +1,16 @@
+.board {
+    width: 81vw;
+    height: 81vw;
+    background-image: url("../images/boardImg.jpg");
+    background-size: cover;
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+}
+h1 {
+    font-family: "Courier New", serif;
+    font-size: 12vw;
+    font-weight: bold;
+    text-shadow: 5px 5px 9px black;
+}
